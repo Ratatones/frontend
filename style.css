@@ -1,0 +1,17 @@
+.header{
+
+    background: linear-gradient(to right, rgb(255, 255, 255), rgba(89, 108, 108, 0.404) 10%, rgba(72, 82, 82, 0.413) 90%, rgba(84, 100, 104, 0.418) 100%);
+    height: 100px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+
+.menu{
+font-size: 30px;
+font-family: fantasy;
+color: black;
+font-weight: 10;
+
+}
