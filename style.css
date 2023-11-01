@@ -1,6 +1,6 @@
 .header{
 
-    background: linear-gradient(to right, rgb(255, 255, 255), rgba(89, 108, 108, 0.404) 10%, rgba(72, 82, 82, 0.413) 90%, rgba(84, 100, 104, 0.418) 100%);
+    background: linear-gradient(to right, rgb(254, 254, 254), rgb(2, 120, 116) 50%, rgb(255, 255, 255) 100%, rgb(255, 255, 255) 100%);
     height: 100px;
 display: flex;
 align-items: center;
@@ -10,8 +10,24 @@ justify-content: space-between;
 
 .menu{
 font-size: 30px;
-font-family: fantasy;
-color: black;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(255, 255, 255);
 font-weight: 10;
+
+}
+
+.logo{
+
+
+}
+
+
+.propaganda{
+
+    height: 450px;
+    background-color: rgb(107, 107, 107);
+    background: url(foto2.jfif) right;
+    background-size: contain;
+    background-repeat: no-repeat;
 
 }
